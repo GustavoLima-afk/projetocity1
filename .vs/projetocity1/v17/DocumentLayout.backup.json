@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\2mod\\Desktop\\projetocity1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D0B7DC3A-EBC8-4721-ADC5-56345F122CC0}|projetocity1\\projetocity1.csproj|c:\\users\\2mod\\desktop\\projetocity1\\projetocity1\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B7DC3A-EBC8-4721-ADC5-56345F122CC0}|projetocity1\\projetocity1.csproj|solutionrelative:projetocity1\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0B7DC3A-EBC8-4721-ADC5-56345F122CC0}|projetocity1\\projetocity1.csproj|c:\\users\\2mod\\desktop\\projetocity1\\projetocity1\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0B7DC3A-EBC8-4721-ADC5-56345F122CC0}|projetocity1\\projetocity1.csproj|solutionrelative:projetocity1\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0B7DC3A-EBC8-4721-ADC5-56345F122CC0}|projetocity1\\projetocity1.csproj|c:\\users\\2mod\\desktop\\projetocity1\\projetocity1\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0B7DC3A-EBC8-4721-ADC5-56345F122CC0}|projetocity1\\projetocity1.csproj|solutionrelative:projetocity1\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B7DC3A-EBC8-4721-ADC5-56345F122CC0}|projetocity1\\projetocity1.csproj|c:\\users\\2mod\\desktop\\projetocity1\\projetocity1\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B7DC3A-EBC8-4721-ADC5-56345F122CC0}|projetocity1\\projetocity1.csproj|solutionrelative:projetocity1\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0B7DC3A-EBC8-4721-ADC5-56345F122CC0}|projetocity1\\projetocity1.csproj|c:\\users\\2mod\\desktop\\projetocity1\\projetocity1\\repositorio\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\projetocity1\\projetocity1\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "projetocity1\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\projetocity1\\projetocity1\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "projetocity1\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T18:19:36.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProdutoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\projetocity1\\projetocity1\\Repositorio\\ProdutoRepositorio.cs",
               "RelativeDocumentMoniker": "projetocity1\\Repositorio\\ProdutoRepositorio.cs",
@@ -39,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UsuarioRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\projetocity1\\projetocity1\\Repositorio\\UsuarioRepositorio.cs",
               "RelativeDocumentMoniker": "projetocity1\\Repositorio\\UsuarioRepositorio.cs",
@@ -52,7 +73,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\projetocity1\\projetocity1\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "projetocity1\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\projetocity1\\projetocity1\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "projetocity1\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T18:11:20.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Conexao.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\projetocity1\\projetocity1\\Repositorio\\Conexao.cs",
               "RelativeDocumentMoniker": "projetocity1\\Repositorio\\Conexao.cs",
@@ -60,8 +94,7 @@
               "RelativeToolTip": "projetocity1\\Repositorio\\Conexao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T17:37:38.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T17:37:38.333Z"
             }
           ]
         }
