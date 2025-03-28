@@ -1,0 +1,9 @@
+C:\Users\gugug\Desktop\projetocity1\projetocity1\obj\Debug\net8.0\projetocity1.csproj.AssemblyReference.cache
+C:\Users\gugug\Desktop\projetocity1\projetocity1\obj\Debug\net8.0\projetocity1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gugug\Desktop\projetocity1\projetocity1\obj\Debug\net8.0\projetocity1.AssemblyInfoInputs.cache
+C:\Users\gugug\Desktop\projetocity1\projetocity1\obj\Debug\net8.0\projetocity1.AssemblyInfo.cs
+C:\Users\gugug\Desktop\projetocity1\projetocity1\obj\Debug\net8.0\projetocity1.csproj.CoreCompileInputs.cache
+C:\Users\gugug\Desktop\projetocity1\projetocity1\obj\Debug\net8.0\projetocity1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gugug\Desktop\projetocity1\projetocity1\obj\Debug\net8.0\projetocity1.RazorAssemblyInfo.cache
+C:\Users\gugug\Desktop\projetocity1\projetocity1\obj\Debug\net8.0\projetocity1.RazorAssemblyInfo.cs
+C:\Users\gugug\Desktop\projetocity1\projetocity1\obj\Debug\net8.0\projetocity1.sourcelink.json
