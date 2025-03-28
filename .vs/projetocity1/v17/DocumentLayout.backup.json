@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\gugug\\Desktop\\projetocity1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D0B7DC3A-EBC8-4721-ADC5-56345F122CC0}|projetocity1\\projetocity1.csproj|c:\\users\\gugug\\desktop\\projetocity1\\projetocity1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0B7DC3A-EBC8-4721-ADC5-56345F122CC0}|projetocity1\\projetocity1.csproj|solutionrelative:projetocity1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0B7DC3A-EBC8-4721-ADC5-56345F122CC0}|projetocity1\\projetocity1.csproj|c:\\users\\gugug\\desktop\\projetocity1\\projetocity1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0B7DC3A-EBC8-4721-ADC5-56345F122CC0}|projetocity1\\projetocity1.csproj|solutionrelative:projetocity1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gugug\\Desktop\\projetocity1\\projetocity1\\appsettings.json",
+              "RelativeDocumentMoniker": "projetocity1\\appsettings.json",
+              "ToolTip": "C:\\Users\\gugug\\Desktop\\projetocity1\\projetocity1\\appsettings.json",
+              "RelativeToolTip": "projetocity1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T23:55:28.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gugug\\Desktop\\projetocity1\\projetocity1\\Program.cs",
               "RelativeDocumentMoniker": "projetocity1\\Program.cs",
